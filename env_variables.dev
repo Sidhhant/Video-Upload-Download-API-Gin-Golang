@@ -1,0 +1,5 @@
+export ENV=development
+export HTTP_PORT=8080
+export DB_NAME=dbname
+export DB_PASSWORD=dbpassword
+export DB_USER=dbuser
